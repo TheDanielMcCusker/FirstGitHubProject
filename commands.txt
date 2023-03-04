@@ -1,0 +1,25 @@
+OS Commands
+
+ctr + alt + T
+
+terminal commands
+dir
+cd 
+cd .
+cd ..
+cd dir/dir/dir
+sudo 
+rm -r
+mkdir
+touch
+&&
+
+
+git commands
+
+git add .
+git add "filename" "filename2" "filename3" "filename4"
+git commit -m "commit message"
+git push origin main
+git clone "giturl" - Make repository on GitHub, copy Git URL and clone into it locally 
+git status 
