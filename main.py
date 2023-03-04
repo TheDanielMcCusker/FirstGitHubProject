@@ -18,7 +18,19 @@ cutoff_age = 30
 # print(type(daniel_favorite_numbers))
 # print(type(daniel_is_male))
 
-if(daniel_favorite_numbers[3] >= cutoff_age):
-  print("You are old as fuck.")
-else:
-  print("You're a spry, young chick.")
+# if(daniel_favorite_numbers[3] >= cutoff_age):
+#   print("You are old as fuck.")
+# else:
+#   print("You're a spry, young chick.")
+  
+
+# function 
+def add_sum(num1, num2):
+    sum = num1 + num2
+    sum2 = sum + num1
+    return sum2
+
+# Funtion call
+
+funtion_sum = add_sum(daniel_age, john_age)
+print(funtion_sum)
