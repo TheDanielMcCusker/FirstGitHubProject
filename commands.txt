@@ -25,3 +25,4 @@ git clone "giturl" - Make repository on GitHub, copy Git URL and clone into it l
 git status 
 git fetch
 git pull
+git config
