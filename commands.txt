@@ -23,3 +23,5 @@ git commit -m "commit message"
 git push origin main
 git clone "giturl" - Make repository on GitHub, copy Git URL and clone into it locally 
 git status 
+git fetch
+git pull
